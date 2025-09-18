@@ -1,0 +1,10 @@
+C:\Users\samdd\OneDrive\Desktop\Safwat\SafCal\bin\Debug\SafCal.exe.config
+C:\Users\samdd\OneDrive\Desktop\Safwat\SafCal\bin\Debug\SafCal.exe
+C:\Users\samdd\OneDrive\Desktop\Safwat\SafCal\bin\Debug\SafCal.pdb
+C:\Users\samdd\OneDrive\Desktop\Safwat\SafCal\obj\Debug\SafCal.csproj.AssemblyReference.cache
+C:\Users\samdd\OneDrive\Desktop\Safwat\SafCal\obj\Debug\SafCal.Form1.resources
+C:\Users\samdd\OneDrive\Desktop\Safwat\SafCal\obj\Debug\SafCal.Properties.Resources.resources
+C:\Users\samdd\OneDrive\Desktop\Safwat\SafCal\obj\Debug\SafCal.csproj.GenerateResource.cache
+C:\Users\samdd\OneDrive\Desktop\Safwat\SafCal\obj\Debug\SafCal.csproj.CoreCompileInputs.cache
+C:\Users\samdd\OneDrive\Desktop\Safwat\SafCal\obj\Debug\SafCal.exe
+C:\Users\samdd\OneDrive\Desktop\Safwat\SafCal\obj\Debug\SafCal.pdb
